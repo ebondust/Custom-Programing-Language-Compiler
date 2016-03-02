@@ -1,4 +1,4 @@
-# Custom-Programming-Language-Compiler
+# Custom Programming Language Compiler
 
 Compiler of very basic custom language that uses recursive descent parser and is written in C#.
 
