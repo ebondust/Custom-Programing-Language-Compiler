@@ -6,25 +6,29 @@ in order to allow compiler to create executable files.
 
 CODE EXAMPLES:
 1.
+```
 void main()
 {
   string str = "Hello World"
   WriteString(str)
 };
-
+```
 2.
+```
 num square(num b)
 {
   num a = b*b;
   return a;
 };
+
 void main()
 {
   num a = square(2);
   WriteNum(a);
 };
-
+```
 3.
+```
 void main()
 {
   num a;
@@ -43,3 +47,4 @@ void main()
     WriteString(s4);
   endif;
 };
+```
