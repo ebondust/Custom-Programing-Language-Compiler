@@ -1,10 +1,12 @@
 # Custom-Programming-Language-Compiler
+
 Compiler of very basic custom language that uses recursive descent parser and is written in C#.
 
 FASM.EXE with Include folder needs to be put in the same directory as compiled project,
 in order to allow compiler to create executable files.
 
-CODE EXAMPLES:
+**CODE EXAMPLES:**
+
 1.
 ```
 void main()
